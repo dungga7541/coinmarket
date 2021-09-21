@@ -16,4 +16,6 @@ ReactDOM.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 //quốc bảo
 // dm dũng nhá
+
+//Chán vc
 reportWebVitals();
