@@ -1,9 +1,9 @@
 import React from "react";
 import { Component } from "react";
 import './cschart.css';
-import logo from './imgs/Global Chart/chart1.PNG';
-import logo2 from './imgs/Global Chart/chart1.PNG';
-import logo3 from './imgs/Global Chart/chart2.PNG';
+import logo from "./../images/GlobalChart/chart1.png";
+import logo2 from "./../images/GlobalChart/chart2.png"
+import log3 from "./../images/GlobalChart/chart3.png";
 //COde cua bảo
 class Chart extends Component {
     render() {
