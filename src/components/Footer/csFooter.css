@@ -1,0 +1,59 @@
+ .total-sticky-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
+.total-footer-top{
+    display: flex;
+}
+.total-footer-left{
+    width: 40%;
+    float:left;
+    margin-left: 13%;
+}
+.total-footer-right{
+    width: 70%;
+    float: left;
+    margin-right: 13%;
+}
+
+.footer-info-right{
+    display: flex;
+}
+.products-column,.company-column,.support-column,.social-column{
+    padding: 0% 0% 4% 9%;
+}
+.products-values,.company-values,.support-values,.social-values{
+    
+    list-style: none;
+}
+.products-values-hiring{
+    height: 22px;
+    background: rgb(56, 97, 251);
+    color: rgb(255, 255, 255);
+    line-height: 17px;
+    border-radius: 40px;
+    font-size: 11px;
+    padding: 2px 12px;
+    margin-left: 5px;
+}
+.total-footer-bottom{
+    margin: 0 13%;
+}
+.footer-info-bottom{
+    display: flex;
+}
+.bottom-footer-info-left{
+    width: 50%;
+    float: left;
+}
+.bottom-footer-info-right{
+    width: 50%;
+    float: right;
+    
+}
+.bottom-footer-total-logo{
+    float: right;
+    display: flex;
+}
